@@ -22,7 +22,6 @@ function App(props) {
     let ampm = "am";
    
     if(hours >=12){
-      
       ampm = "pm";
     }
   

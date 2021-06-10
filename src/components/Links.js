@@ -8,11 +8,11 @@ function Links(){
     return (
     <div className="links-container">
         <div className="links-img">
-            <a href="https://github.com/datalessuk">
+            <a href="https://github.com/datalessuk/whentowakeup">
                 <img src={gitHub} alt=""/>
             </a>
             
-            <a href="#">
+            <a href="http://www.markharrison.tech">
                 <img src={home} alt=""/>
              </a>
             <a href="https://www.linkedin.com/in/mark-harrison-2a0638193/">
