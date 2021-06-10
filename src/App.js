@@ -22,9 +22,10 @@ function App(props) {
     let ampm = "am";
    
     if(hours >=12){
+      
       ampm = "pm";
     }
-  
+    hours = hours % 12;
     return hours + ":" + minutes + ""+ ampm;
   }
 
