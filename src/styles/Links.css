@@ -1,0 +1,17 @@
+.links-container{
+    border-top: 1.5px solid #6c6c6c;
+    position: relative;
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.links-img img{
+    width: 30px;
+    height: 30px;
+    padding: 15px;
+}
+.links-img img:hover{
+    transform: scale(1.5);
+}

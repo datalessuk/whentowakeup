@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.logo{
+    background: url('../components/img/logos/info-circle-solid.svg');
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    border:none;
+    margin-left:5px;
+    margin-top: 5px;
+    ;
+}
+
+.content{
+    background-color: #535a69;
+    padding:20px;
+    color: white;
+    font-size: 1.2rem;
+}
+span{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+ .minutes{
+    color: rgb(143,202,124);
+
+}
+.right-now{
+    color: rgb(243,172,111);
+}
+.two{
+    color: rgb(242, 127, 140);
+}
+.rested{
+    color:rgb(170, 134, 189);
+}
